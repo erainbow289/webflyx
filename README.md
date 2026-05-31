@@ -1,5 +1,7 @@
 # Webflyx
 
+Python project focused on building programming fundamentals, systems thinking, and development workflow experience.
+
 ## Overview
 Webflyx is a Python-based project developed as part of my independent learning in software development, with a focus on building strong programming fundamentals and systems thinking.
 
