@@ -2,6 +2,8 @@
 
 Python project focused on building programming fundamentals, systems thinking, and development workflow experience.
 
+---
+
 ## Overview
 Webflyx is a Python-based project developed as part of my independent learning in software development. The project helped me build core skills in logical structuring, problem decomposition, and understanding end-to-end workflows — skills directly applicable to game development.
 
@@ -30,7 +32,34 @@ Through this project, I improved my ability to break problems into manageable co
 
 ---
 
-## How to Run
+## How to Run 
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR_USERNAME/webflyx.git
+
+2. navigate to the project folder:
+   ```bash
+   cd webflyx
+3.Run the main Python file (replace main.py with your actual file name if different):
+   ```bash
+   python main.py
+
+---
+
+## Development Goals
+- Continue improving code quality and structure
+- Expand into more complex systems and features
+- Apply these fundamentals to future game development projects
+
+---
+
+## Future Improvements
+- Add a user interface (CLI or GUI) for easier interaction
+- Incorporate additional features to simulate more complex systems
+- Refactor code for modularity and reusability
+- Experiment with integrating the project into simple game mechanics
+
+---
+
+## Author
+Aspiring game developer focused on building skills in programming, systems thinking, and game development workflows.
