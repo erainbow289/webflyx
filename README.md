@@ -3,17 +3,15 @@
 Python project focused on building programming fundamentals, systems thinking, and development workflow experience.
 
 ## Overview
-Webflyx is a Python-based project developed as part of my independent learning in software development, with a focus on building strong programming fundamentals and systems thinking.
-
-This project contributes to my progression into game development, helping me develop core skills such as logical structuring, problem decomposition, and workflow understanding.
+Webflyx is a Python-based project developed as part of my independent learning in software development. The project helped me build core skills in logical structuring, problem decomposition, and understanding end-to-end workflows — skills directly applicable to game development.
 
 ---
 
-## Purpose of the Project
-The goal of this project was to:
-- Strengthen understanding of Python fundamentals
-- Improve structured problem-solving skills
-- Develop experience working with real development workflows using Git and GitHub
+## Purpose
+The project was designed to:
+- Strengthen understanding of Python fundamentals and programming logic
+- Improve structured problem-solving and systems thinking
+- Gain practical experience with development workflows using Git and GitHub
 - Build a foundation for future game development projects
 
 ---
@@ -28,16 +26,11 @@ The goal of this project was to:
 ---
 
 ## Key Learnings
-This project helped me improve how I approach problems by breaking them into smaller, manageable components. It also strengthened my ability to write structured code and understand how individual systems work together within a program.
+Through this project, I improved my ability to break problems into manageable components, write structured and maintainable code, and understand how individual systems work together. These skills are directly relevant to designing and building game systems.
 
 ---
 
-## Development Goals
-- Continue improving code quality and structure
-- Expand into more complex systems and features
-- Apply these fundamentals to future game development projects
-
----
-
-## Author
-Aspiring game developer building foundational skills in programming, systems thinking, and game development workflows.
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/webflyx.git
